@@ -1,0 +1,7 @@
+class SampleOne
+{
+public ststic void main(String args[])
+{
+
+}
+}

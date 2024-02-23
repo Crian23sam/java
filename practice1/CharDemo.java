@@ -1,0 +1,10 @@
+class CharDemo
+{
+public ststic void main(String args[])
+{
+ch1 = 88;
+ch2 = 'Y';
+System.out.println("ch1 and ch2:");
+System.out.println(ch1+" "+ch2);
+}
+}
